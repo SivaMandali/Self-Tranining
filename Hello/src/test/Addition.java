@@ -8,8 +8,7 @@ public class Addition {
 		int a=10;
 		int b=20;
 		int c=a+b;
-		int d;
-		int e;//adding to check git process
+			int e;//adding to check git process
 		
 		System.out.println(c);
 				
